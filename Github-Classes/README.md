@@ -1,9 +1,9 @@
 
-classes will require a working email address and a computer for each student.
-
 # Introductory Course
 
 In this course, participants will learn the basic usage of Github's website, the location where most of open source coding takes place.
+
+** classes will require a working email address and a computer for each student. **
 
 * Introduction
   * Signing Up (**will need to contact Github ahead of time to ensure we won't get locked out due to to many requests**)
