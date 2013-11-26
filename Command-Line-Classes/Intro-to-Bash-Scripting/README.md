@@ -12,9 +12,9 @@ Participants will learn how to utilize the most widely used terminal, which allo
 
 ## Taglines
 
-Gain l33t skills!
+>>> Gain l33t skills!
 
-Impress your friends!
+>> Impress your friends!
 
 
 
