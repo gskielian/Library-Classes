@@ -1,6 +1,8 @@
 Hello World in Bash Scripting
 =============================
 
+![Hello World](Hello.png)
+
 
 ## Short Description
 
@@ -24,8 +26,6 @@ Any mac --even at the mac store (no they do not block this, but we'll show you h
 * piping `date` into `say`
 * command line options with `say`
   * different voices, using the -v option
-
-![Hello World](Hello.png)
 
 
 ![blue keyboard](http://media.bizj.us/view/img/466541/hacker-blue-keyboard*304.jpg)
