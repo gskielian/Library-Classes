@@ -1,6 +1,6 @@
 ![Hello World](Hello.png)
 
-`Hello World` in Bash Scripting
+`Hello Bash Scripting`
 =============================
 
 
