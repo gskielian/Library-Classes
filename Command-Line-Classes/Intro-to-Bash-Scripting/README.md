@@ -33,7 +33,20 @@ Any mac --even at the mac store (no they do not block this, but we'll show you h
 ![blue keyboard](http://media.bizj.us/view/img/466541/hacker-blue-keyboard*304.jpg)
 
 
-### 
+### Level 2: `wget && grep` and `ifconfig && ssh`
+
+## Short Description
+
+Those with prior experience can learn more about `wget` and `grep` for triggering scripts.
+
+## Bash Scripting Outline
+
+*
+
+
+### Level 2-Path 2: Capture the file
+
+Students will play capture the file, exercising their understanding of command-line shortcuts, typing-speed, aliases, and unix directory structure.
 
 
 ![All Your Base Nyan](http://img.gawkerassets.com/img/18k1un8j9r5jljpg/k-bigpic.jpg)
